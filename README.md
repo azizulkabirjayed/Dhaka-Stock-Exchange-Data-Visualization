@@ -16,12 +16,12 @@ Automated BeautifulSoup scraping of real-time share prices and sectoral P/E data
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Sample Visualizations
-![Visualization 1](./Images/1.PNG)
-![Visualization 2](./Images/2.PNG)
-![Visualization 3](./Images/3.PNG)
-![Visualization 4](./Images/4.PNG)
-![Visualization 5](./Images/5.PNG)
-![Visualization 6](./Images/6.PNG)
-![Visualization 7](./Images/7.PNG)
-![Visualization 8](./Images/8.PNG)
+![Visualization 1](./Images/1.png)
+![Visualization 2](./Images/2.png)
+![Visualization 3](./Images/3.png)
+![Visualization 4](./Images/4.png)
+![Visualization 5](./Images/5.png)
+![Visualization 6](./Images/6.png)
+![Visualization 7](./Images/7.png)
+![Visualization 8](./Images/8.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
