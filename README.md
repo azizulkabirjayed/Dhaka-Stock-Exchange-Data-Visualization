@@ -16,12 +16,12 @@ Automated BeautifulSoup scraping of real-time share prices and sectoral P/E data
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Sample Visualizations
-![Visualization 1](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/7596ebd0424c1ee2a3568c0d259f01f43f6d0b89/15/1.png)
-![Visualization 2](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/7596ebd0424c1ee2a3568c0d259f01f43f6d0b89/15/2.png)
-![Visualization 3](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/7596ebd0424c1ee2a3568c0d259f01f43f6d0b89/15/3.png)
-![Visualization 4](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/7596ebd0424c1ee2a3568c0d259f01f43f6d0b89/15/4.png)
-![Visualization 5](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/7596ebd0424c1ee2a3568c0d259f01f43f6d0b89/15/5.png)
-![Visualization 6](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/7596ebd0424c1ee2a3568c0d259f01f43f6d0b89/15/6.png)
-![Visualization 7](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/7596ebd0424c1ee2a3568c0d259f01f43f6d0b89/15/7.png)
-![Visualization 8](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/7596ebd0424c1ee2a3568c0d259f01f43f6d0b89/15/8.png)
+![Visualization 1](./images/1.png)
+![Visualization 2](./images/2.png)
+![Visualization 3](./images/3.png)
+![Visualization 4](./images/4.png)
+![Visualization 5](./images/5.png)
+![Visualization 6](./images/6.png)
+![Visualization 7](./images/7.png)
+![Visualization 8](./images/8.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
